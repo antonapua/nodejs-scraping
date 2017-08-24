@@ -1,0 +1,74 @@
+[{
+    "title": "Configuring your website in FlashFXP",
+    "video_src": "../tutorials/ftp/ftp_flashfxp32_conf.swf"
+},{
+    "title": "Uploading files using FTP Voyager",
+    "video_src": "../tutorials/ftp/ftp_voyager_upload.swf"
+},{
+    "title": "Managing files/folders in FTP Voyager",
+    "video_src": "../tutorials/ftp/ftp_voyager_manage.swf"
+},{
+    "title": "Managing files/folders in FileZilla",
+    "video_src": "../tutorials/ftp/ftp_filezilla_manage.swf"
+},{
+    "title": "Uploading files using LeapFTP",
+    "video_src": "../tutorials/ftp/ftp_leapftp_upload.swf"
+},{
+    "title": "Setting your preferences in FlashFXP",
+    "video_src": "../tutorials/ftp/ftp_flashfxp32_pref.swf"
+},{
+    "title": "Uploading files using WinSCP",
+    "video_src": "../tutorials/ftp/ftp_winscp_upload.swf"
+},{
+    "title": "Uploading files using SmartFTP",
+    "video_src": "../tutorials/ftp/ftp_smart_upload.swf"
+},{
+    "title": "Managing files/folders in WS_FTP",
+    "video_src": "../tutorials/ftp/ftp_wsftp_manage.swf"
+},{
+    "title": "Configuring your website in WinSCP",
+    "video_src": "../tutorials/ftp/ftp_winscp_conf.swf"
+},{
+    "title": "Uploading files using FileZilla",
+    "video_src": "../tutorials/ftp/ftp_filezilla_upload.swf"
+},{
+    "title": "Configuring your website in CuteFTP",
+    "video_src": "../tutorials/ftp/ftp_cuteftp_conf.swf"
+},{
+    "title": "Configuring your website in FileZilla",
+    "video_src": "../tutorials/ftp/ftp_filezilla_config.swf"
+},{
+    "title": "Configuring your website in SmartFTP",
+    "video_src": "../tutorials/ftp/ftp_smart_conf.swf"
+},{
+    "title": "Managing files/folders in WinSCP",
+    "video_src": "../tutorials/ftp/ftp_winscp_manage.swf"
+},{
+    "title": "Managing files/folders in SmartFTP",
+    "video_src": "../tutorials/ftp/ftp_smart_manage.swf"
+},{
+    "title": "Configuring your website in FTP Voyager",
+    "video_src": "../tutorials/ftp/ftp_voyager_conf.swf"
+},{
+    "title": "Configuring your website in WS_FTP",
+    "video_src": "../tutorials/ftp/ftp_wsftp_conf.swf"
+},{
+    "title": "Configuring your website in LeapFTP",
+    "video_src": "../tutorials/ftp/ftp_leapftp_conf.swf"
+},{
+    "title": "Uploading files using WS_FTP",
+    "video_src": "../tutorials/ftp/ftp_wsftp_upload.swf"
+},{
+    "title": "Managing files/folders in CuteFTP",
+    "video_src": "../tutorials/ftp/ftp_cuteftp_manage.swf"
+},{
+    "title": "Managing files/folders in LeapFTP",
+    "video_src": "../tutorials/ftp/ftp_leapftp_manage.swf"
+},{
+    "title": "Uploading files using CuteFTP",
+    "video_src": "../tutorials/ftp/ftp_cuteftp_upload.swf"
+},{
+    "title": "Uploading files using FlashFXP",
+    "video_src": "../tutorials/ftp/ftp_flashfxp32_upload.swf"
+}
+]

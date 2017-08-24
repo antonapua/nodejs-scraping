@@ -1,0 +1,101 @@
+[{
+    "title": "How to decide which script in Softaculous is right for you",
+    "video_src": "../tutorials/softaculous/softaculous-2-decide.swf"
+},{
+    "title": "How to list all scripts that have been installed by Softaculous",
+    "video_src": "../tutorials/softaculous/softaculous-6-allscripts.swf"
+},{
+    "title": "How to install Serendipity from Softaculous",
+    "video_src": "../tutorials/softaculous/softaculous-10-serendipity.swf"
+},{
+    "title": "How to install a script using Softaculous",
+    "video_src": "../tutorials/softaculous/softaculous-3-install.swf"
+},{
+    "title": "How to install Gallery from Softaculous",
+    "video_src": "../tutorials/softaculous/softaculous-23-gallery.swf"
+},{
+    "title": "How to install Piwigo from Softaculous",
+    "video_src": "../tutorials/softaculous/softaculous-26-piwigo.swf"
+},{
+    "title": "How to import a script into Softaculous",
+    "video_src": "../tutorials/softaculous/softaculous-4-import.swf"
+},{
+    "title": "How to install Magento from Softaculous",
+    "video_src": "../tutorials/softaculous/softaculous-30-magento.swf"
+},{
+    "title": "How to install SMF from Softaculous",
+    "video_src": "../tutorials/softaculous/softaculous-22-smf.swf"
+},{
+    "title": "How to install TinyWebGallery from Softaculous",
+    "video_src": "../tutorials/softaculous/softaculous-25-tinywebgallery.swf"
+},{
+    "title": "How to install Drupal from Softaculous",
+    "video_src": "../tutorials/softaculous/softaculous-17-drupal.swf"
+},{
+    "title": "How to install Dotclear from Softaculous",
+    "video_src": "../tutorials/softaculous/softaculous-14-dotclear.swf"
+},{
+    "title": "How to install Textpattern from Softaculous",
+    "video_src": "../tutorials/softaculous/softaculous-15-textpattern.swf"
+},{
+    "title": "How to install Nucleus from Softaculous",
+    "video_src": "../tutorials/softaculous/softaculous-13-nucleus.swf"
+},{
+    "title": "How to install WHMCS from Softaculous",
+    "video_src": "../tutorials/softaculous/softaculous-33-whmcs.swf"
+},{
+    "title": "How to find Softaculous in cPanel",
+    "video_src": "../tutorials/softaculous/softaculous-1-find.swf"
+},{
+    "title": "How to install osCommerce from Softaculous",
+    "video_src": "../tutorials/softaculous/softaculous-31-oscommerce.swf"
+},{
+    "title": "How to install Joomla from Softaculous",
+    "video_src": "../tutorials/softaculous/softaculous-16-joomla.swf"
+},{
+    "title": "How to install WordPress from Softaculous",
+    "video_src": "../tutorials/softaculous/softaculous-11-wordpress.swf"
+},{
+    "title": "How to install WordPress MU from Softaculous",
+    "video_src": "../tutorials/softaculous/softaculous-12-wordpressmu.swf"
+},{
+    "title": "How to install DokuWiki from Softaculous",
+    "video_src": "../tutorials/softaculous/softaculous-27-dokuwiki.swf"
+},{
+    "title": "How to install MODx from Softaculous",
+    "video_src": "../tutorials/softaculous/softaculous-18-modx.swf"
+},{
+    "title": "How to install MediaWiki from Softaculous",
+    "video_src": "../tutorials/softaculous/softaculous-28-mediawiki.swf"
+},{
+    "title": "How to install MyBB from Softaculous",
+    "video_src": "../tutorials/softaculous/softaculous-21-mybb.swf"
+},{
+    "title": "How to remove a script installed by Sofaculous",
+    "video_src": "../tutorials/softaculous/softaculous-7-remove.swf"
+},{
+    "title": "How to install phpBB from Softaculous",
+    "video_src": "../tutorials/softaculous/softaculous-20-phpbb.swf"
+},{
+    "title": "How to synchronize Softaculous with other Auto Installers",
+    "video_src": "../tutorials/softaculous/softaculous-5-synchronize.swf"
+},{
+    "title": "How to install Coppermine from Softaculous",
+    "video_src": "../tutorials/softaculous/softaculous-24-coppermine.swf"
+},{
+    "title": "How to install Zen Cart from Softaculous",
+    "video_src": "../tutorials/softaculous/softaculous-29-zencart.swf"
+},{
+    "title": "How to upgrade a script installed by Sofaculous",
+    "video_src": "../tutorials/softaculous/softaculous-8-upgrade.swf"
+},{
+    "title": "How to install Cube Cart from Softaculous",
+    "video_src": "../tutorials/softaculous/softaculous-32-cubecart.swf"
+},{
+    "title": "How to install Dolphin from Softaculous",
+    "video_src": "../tutorials/softaculous/softaculous-19-dolphin.swf"
+},{
+    "title": "How to change Softaculous' settings and email settings",
+    "video_src": "../tutorials/softaculous/softaculous-9-settings.swf"
+}
+]

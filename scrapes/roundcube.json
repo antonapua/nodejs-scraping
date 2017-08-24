@@ -1,0 +1,32 @@
+[{
+    "title": "Using multiple identities in RoundCube",
+    "video_src": "../tutorials/roundcube/roundcube-identity.swf"
+},{
+    "title": "How to write an email message in RoundCube",
+    "video_src": "../tutorials/roundcube/roundcube-writeemail.swf"
+},{
+    "title": "How to mark messages in RoundCube",
+    "video_src": "../tutorials/roundcube/roundcube-mark.swf"
+},{
+    "title": "How to manage your address book in RoundCube",
+    "video_src": "../tutorials/roundcube/roundcube-address.swf"
+},{
+    "title": "How to reply to or forward messages in RoundCube",
+    "video_src": "../tutorials/roundcube/roundcube-reply.swf"
+},{
+    "title": "How to search for messages in RoundCube",
+    "video_src": "../tutorials/roundcube/roundcube-search.swf"
+},{
+    "title": "How to create folders in RoundCube",
+    "video_src": "../tutorials/roundcube/roundcube-folders.swf"
+},{
+    "title": "How to save a draft message in RoundCube",
+    "video_src": "../tutorials/roundcube/roundcube-draft.swf"
+},{
+    "title": "How to open an email message in RoundCube",
+    "video_src": "../tutorials/roundcube/roundcube-openemail.swf"
+},{
+    "title": "How to edit your preferences in RoundCube",
+    "video_src": "../tutorials/roundcube/roundcube-pref.swf"
+}
+]

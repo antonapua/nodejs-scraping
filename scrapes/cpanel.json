@@ -1,0 +1,92 @@
+[{
+    "title": "How to create additional FTP accounts in cPanel",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-18-ftp.swf"
+},{
+    "title": "How to view your website stats in cPanel",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-19-stats.swf"
+},{
+    "title": "How to password protect a directory in cPanel",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-20-protect.swf"
+},{
+    "title": "How to setup email filters in cPanel",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-6-filter.swf"
+},{
+    "title": "How to change your cPanel style",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-12-style.swf"
+},{
+    "title": "How to park a domain in cPanel",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-25-park.swf"
+},{
+    "title": "How to update your contact information in cPanel",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-11-contact.swf"
+},{
+    "title": "How to enable spam protection in cPanel",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-7-spam.swf"
+},{
+    "title": "How to create an addon domain in cPanel",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-24-addon.swf"
+},{
+    "title": "How to create a subdomain in cPanel",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-23-subdomain.swf"
+},{
+    "title": "How to use the Disk Space Usage tool in cPanel",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-17-diskusage.swf"
+},{
+    "title": "How to setup an auto-responder in cPanel",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-4-autoresp.swf"
+},{
+    "title": "How to backup your website in cPanel",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-15-backup.swf"
+},{
+    "title": "How to set your default address in cPanel",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-3-default.swf"
+},{
+    "title": "How to setup domain redirects in cPanel",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-26-redirects.swf"
+},{
+    "title": "How to create custom error pages in cPanel",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-29-error.swf"
+},{
+    "title": "How to login to cPanel",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-1-login.swf"
+},{
+    "title": "How to change the primary language in cPanel",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-13-language.swf"
+},{
+    "title": "How to add an MX entry in cPanel",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-8-mx.swf"
+},{
+    "title": "How to use webmail from within cPanel",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-9-webmail.swf"
+},{
+    "title": "How to setup a cron job in cPanel",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-30-cron.swf"
+},{
+    "title": "How to setup desktop shortcuts for cPanel",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-14-shortcuts.swf"
+},{
+    "title": "How to create a MySQL database in cPanel",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-27-mysql.swf"
+},{
+    "title": "How to setup Hotlink protection in cPanel",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-22-hotlink.swf"
+},{
+    "title": "How to use the IP Deny Manager in cPanel",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-21-ipdeny.swf"
+},{
+    "title": "How to use File Manager in cPanel",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-16-filemanager.swf"
+},{
+    "title": "How to change your cPanel password",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-10-password.swf"
+},{
+    "title": "How to create a POP email account in cPanel",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-2-popemail.swf"
+},{
+    "title": "How to setup email forwarding in cPanel",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-5-forwarder.swf"
+},{
+    "title": "How to use the Index Manager in cPanel",
+    "video_src": "../tutorials/cpanel1130x3/cpanel1130x3-28-index.swf"
+}
+]

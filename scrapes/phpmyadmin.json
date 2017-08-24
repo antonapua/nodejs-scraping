@@ -1,0 +1,38 @@
+[{
+    "title": "Exporting databases and tables with phpMyAdmin",
+    "video_src": "../tutorials/phpmyadmin/phpma-export.swf"
+},{
+    "title": "Deleting tables from a database with phpMyAdmin",
+    "video_src": "../tutorials/phpmyadmin/phpma-deltable.swf"
+},{
+    "title": "Becoming familiar with databases in phpMyAdmin",
+    "video_src": "../tutorials/phpmyadmin/phpma-familiar.swf"
+},{
+    "title": "Searching through a database with phpMyAdmin",
+    "video_src": "../tutorials/phpmyadmin/phpma-search.swf"
+},{
+    "title": "Inserting fields into database tables with phpMyAdmin",
+    "video_src": "../tutorials/phpmyadmin/phpma-insertfield.swf"
+},{
+    "title": "Running SQL queries on a database with phpMyAdmin",
+    "video_src": "../tutorials/phpmyadmin/phpma-query.swf"
+},{
+    "title": "Renaming database tables with phpMyAdmin",
+    "video_src": "../tutorials/phpmyadmin/phpma-rename.swf"
+},{
+    "title": "Copying a database table with phpMyAdmin",
+    "video_src": "../tutorials/phpmyadmin/phpma-copy.swf"
+},{
+    "title": "Creating tables in a database with phpMyAdmin",
+    "video_src": "../tutorials/phpmyadmin/phpma-createtable.swf"
+},{
+    "title": "Deleting fields from database tables with phpMyAdmin",
+    "video_src": "../tutorials/phpmyadmin/phpma-delfield.swf"
+},{
+    "title": "Modifying fields in database tables with phpMyAdmin",
+    "video_src": "../tutorials/phpmyadmin/phpma-modifyfield.swf"
+},{
+    "title": "Importing databases and tables with phpMyAdmin",
+    "video_src": "../tutorials/phpmyadmin/phpma-import.swf"
+}
+]

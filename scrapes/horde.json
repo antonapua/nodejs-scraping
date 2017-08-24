@@ -1,0 +1,35 @@
+[{
+    "title": "How to export contacts from Horde",
+    "video_src": "../tutorials/horde/horde-exports.swf"
+},{
+    "title": "How to configure global options in Horde",
+    "video_src": "../tutorials/horde/horde-options.swf"
+},{
+    "title": "How to edit your personal information in Horde",
+    "video_src": "../tutorials/horde/horde-personalinfo.swf"
+},{
+    "title": "How to manage your contacts in Horde",
+    "video_src": "../tutorials/horde/horde-contacts.swf"
+},{
+    "title": "How to create calendar entries in Horde",
+    "video_src": "../tutorials/horde/horde-calendar.swf"
+},{
+    "title": "How to open an email message in Horde",
+    "video_src": "../tutorials/horde/horde-openemail.swf"
+},{
+    "title": "How to create folders in Horde",
+    "video_src": "../tutorials/horde/horde-folders.swf"
+},{
+    "title": "How to import contacts into Horde",
+    "video_src": "../tutorials/horde/horde-import.swf"
+},{
+    "title": "How to create tasks in Horde",
+    "video_src": "../tutorials/horde/horde-tasks.swf"
+},{
+    "title": "How to write an email message in Horde",
+    "video_src": "../tutorials/horde/horde-writeemail.swf"
+},{
+    "title": "How to setup email filters in Horde",
+    "video_src": "../tutorials/horde/horde-filters.swf"
+}
+]

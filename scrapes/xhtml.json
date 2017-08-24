@@ -1,0 +1,50 @@
+[{
+    "title": "How to make text bold and italic",
+    "video_src": "../tutorials/xhtml/b1xhtml-16-bolditalic.swf"
+},{
+    "title": "How to create your first XHTML document",
+    "video_src": "../tutorials/xhtml/b1xhtml-7-firstdoc.swf"
+},{
+    "title": "How is XHTML different from HTML?",
+    "video_src": "../tutorials/xhtml/b1xhtml-2-vshtml.swf"
+},{
+    "title": "How to insert a line break",
+    "video_src": "../tutorials/xhtml/b1xhtml-11-br.swf"
+},{
+    "title": "Choosing a text editor for web development",
+    "video_src": "../tutorials/xhtml/b1xhtml-3-editor.swf"
+},{
+    "title": "How to create a hyperlink",
+    "video_src": "../tutorials/xhtml/b1xhtml-13-a.swf"
+},{
+    "title": "How to create text headings",
+    "video_src": "../tutorials/xhtml/b1xhtml-15-headings.swf"
+},{
+    "title": "How to choose the correct document type for your XHTML page",
+    "video_src": "../tutorials/xhtml/b1xhtml-8-doctype.swf"
+},{
+    "title": "Some resources you should know about before you begin",
+    "video_src": "../tutorials/xhtml/b1xhtml-4-resources.swf"
+},{
+    "title": "How to create a horizontal line",
+    "video_src": "../tutorials/xhtml/b1xhtml-12-hr.swf"
+},{
+    "title": "An introduction to coding web pages with XHTML",
+    "video_src": "../tutorials/xhtml/b1xhtml-1-intro.swf"
+},{
+    "title": "How to add metadata to your web page",
+    "video_src": "../tutorials/xhtml/b1xhtml-9-meta.swf"
+},{
+    "title": "How to give your web page some structure",
+    "video_src": "../tutorials/xhtml/b1xhtml-10-div.swf"
+},{
+    "title": "How to add an image to your web page",
+    "video_src": "../tutorials/xhtml/b1xhtml-14-img.swf"
+},{
+    "title": "How to quickly open a local web page in your browser",
+    "video_src": "../tutorials/xhtml/b1xhtml-5-openlocal.swf"
+},{
+    "title": "How to correctly save an XHTML document",
+    "video_src": "../tutorials/xhtml/b1xhtml-6-save.swf"
+}
+]

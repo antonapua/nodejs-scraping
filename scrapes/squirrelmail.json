@@ -1,0 +1,32 @@
+[{
+    "title": "How to open an email message in SquirrelMail",
+    "video_src": "../tutorials/squirrelmail/squirrel-open.swf"
+},{
+    "title": "How to modify the index order in SquirrelMail",
+    "video_src": "../tutorials/squirrelmail/squirrel-indexorder.swf"
+},{
+    "title": "How to edit your personal information in SquirrelMail",
+    "video_src": "../tutorials/squirrelmail/squirrel-personalinfo.swf"
+},{
+    "title": "How to manage contacts in SquirrelMail",
+    "video_src": "../tutorials/squirrelmail/squirrel-contacts.swf"
+},{
+    "title": "How to create folders in SquirrelMail",
+    "video_src": "../tutorials/squirrelmail/squirrel-folders.swf"
+},{
+    "title": "How to highlight messages in SquirrelMail",
+    "video_src": "../tutorials/squirrelmail/squirrel-highlight.swf"
+},{
+    "title": "How to write an email message in SquirrelMail",
+    "video_src": "../tutorials/squirrelmail/squirrel-writemail.swf"
+},{
+    "title": "How to modify folder preferences in SquirrelMail",
+    "video_src": "../tutorials/squirrelmail/squirrel-folderprefs.swf"
+},{
+    "title": "How to modify display preferences in SquirrelMail",
+    "video_src": "../tutorials/squirrelmail/squirrel-displayprefs.swf"
+},{
+    "title": "How to search for messages in SquirrelMail",
+    "video_src": "../tutorials/squirrelmail/squirrel-search.swf"
+}
+]

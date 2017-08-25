@@ -4,60 +4,50 @@ var request = require('request');
 var cheerio = require('cheerio');
 var app = express();
 
+// accepts and array of objects to retrieve title and path of individual video pages
+function retrieve(object){
+  url = object.path;
+  request(url, function(error, response, html) {
+
+    if (!error) {
+      var $ = cheerio.load(html);
+
+      $('.fontsize2').each(function (){
+        title = $(this).text().toLowerCase().replace(new RegExp(" ", "g"), '-').toLowerCase().replace(new RegExp("'", "g"), '').replace(new RegExp("/", "g"), '');
+        cat_title = object.title.toLowerCase().replace(new RegExp(" ", "g"), '-').toLowerCase().replace(new RegExp("'", "g"), '').replace(new RegExp("/", "g"), '');
+        output = 'redirect 301 https://www.singaporehost.sg/customers/'+$(this).attr('href')+' /knowledge-base/video-tutorials/'+cat_title+'/'+title+'.php/';
+
+        fs.appendFile('output.txt', output, function(err) {})
+      });
+    }
+
+  })
+}
+
 app.get('/scrape', function(req, res) {
 
-  url = 'https://www.singaporehost.sg/customers/knowledgebase.php?action=displaycat&catid=40';
+  url = 'https://www.singaporehost.sg/customers/knowledgebase.php?action=displaycat&catid=25';
 
   request(url, function(error, response, html) {
 
     if (!error) {
 
       var $ = cheerio.load(html);
+      main_cat_arr = [];
+      // retrieve and store main categories
+      $('.control-group a').each(function (){
+        main_cat_link = $(this).attr('href');
+        main_cat_title = $(this).text();
 
-      var paths = [];
-
-      $('a.fontsize2').each(function (){
-        path = $(this).attr('href');
-        title = $(this).text();
-        paths.push( {'title':title , 'path':'https://www.singaporehost.sg/customers/'+path} );
+        main_cat_arr.push( { 'title':  main_cat_title, 'path': 'https://www.singaporehost.sg/customers/'+main_cat_link } );
       });
-
-
-      // fetch the video src
-      var check = [];
-      for (var i = 0; i < paths.length; i++) {
-        video_page = paths[i].path;
-        video_title = paths[i].title;
-        request(video_page, function(error, response, body) {
-          if (!error) {
-
-            var $ = cheerio.load(body);
-            var video_link = $('h3').find('a').attr('href');
-            video_link = 'https://www.singaporehost.sg'+video_link;
-            var group = [];
-            // fetch video individual
-            request(video_link, function(error, response, vpage) {
-              var $ = cheerio.load(vpage);
-              var video_src = $('embed').attr('src');
-              var title = $('title').text();
-              data = [title,video_src];
-              group.concat(data);
-            });
-            group.push('bacon','YUMmy bacon tuna sandwhich')
-            console.log(group);
-            fs.appendFile('output.json', JSON.stringify( group, null, 4), function(err) {})
-
-          }
-        });
-
-      }
+      // loop through and process the subcats
+      main_cat_arr.map(retrieve);
 
 
 
 
-
-
-        res.send(check)
+      res.send(main_cat_arr)
     }
   })
 
